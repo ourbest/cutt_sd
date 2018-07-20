@@ -1,0 +1,6 @@
+build
+cutt_sd.egg-info
+dist
+upload.sh
+.idea
+*/__pycache__
